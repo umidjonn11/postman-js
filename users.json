@@ -1,0 +1,10 @@
+[
+    {
+        "username": "janedoe",
+        "password": "strongpassword",
+        "fullName": "Jane Dojdee",
+        "age": 30,
+        "email": "janedoe@example.com",
+        "gender": "female"
+    }
+]
