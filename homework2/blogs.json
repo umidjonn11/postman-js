@@ -1,9 +1,9 @@
 [
     {
-        "id": 1,
-        "title": "Delicious Vegan Recipes for the Whole Family",
-        "content": "In today's post, we explore some easy and tasty vegan recipes that your entire family will love. From creamy avocado pasta to crispy cauliflower tacos, these dishes are not only delicious but also nutritious. I will guide you through step-by-step instructions to make these plant-based meals at home. Eating healthy has never been so fun and flavorful!",
-        "author": "Sarah Lee",
-        "createdAt": "2024-12-26T13:17:28.440Z"
+        "id": 2,
+        "title": "The Importance of Learning JavaScript",
+        "content": "JavaScript is a versatile and widely used programming language that is essential for modern web development. It is a client-side scripting language that enables interactive web pages and is an integral part of the web development stack.",
+        "author": "john_doe",
+        "createdAt": "2024-12-27T15:42:19.425Z"
     }
 ]
